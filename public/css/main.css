@@ -1,0 +1,23 @@
+.preloader-background {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ee6e73;
+  position: fixed;
+  z-index: 100;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;	
+}
+
+.btn-add {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+}
+
+.logo-menu {
+  margin-top: 5px;
+  width: 200px
+}
